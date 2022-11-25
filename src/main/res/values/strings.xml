@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EnergyDrinks</string>
+    <string name="energy_drinks">Energy Drinks</string>
+    <string name="what_is_your_favorite_drink">what is your favorite drink</string>
+    <string name="total_price">Total Price:</string>
+    <string name="submit_order">SUBMIT ORDER</string>
+    <string name="burn">burn</string>
+    <string name="share">Share</string>
+</resources>
